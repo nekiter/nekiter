@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+ 
+### Who am I?
+I'm a computer engineer who want to use computer science to innovate and make the life better.
+ 
+### Where am I working?
 
-<!--
-**nekiter/nekiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working as a Fullstack developer/Techlead @Phonetrack.
+ 
+#### Extras
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On my free time I'm currently working on a mobile game using Godot engine, it's a just a learning process but if you want to follow this development it's possible to watch at: https://www.twitch.tv/cs_nikito
